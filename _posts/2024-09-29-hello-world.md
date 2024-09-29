@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-09-29-Hello World
+title: Hello World
 categories: Hello
 description: 站点搭建中
 keywords: Site
